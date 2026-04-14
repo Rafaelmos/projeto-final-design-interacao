@@ -1,6 +1,3 @@
-Perfeito. Você quer algo **nível mercado + pronto pra usar no GitHub**, sem slide — então vou te entregar uma **estrutura completa de repositório + instrução para os alunos + modelo de README**.
-
-Isso aqui você pode literalmente copiar e passar pra turma.
 
 ---
 
